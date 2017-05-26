@@ -7,14 +7,14 @@ fundamentals. Each day at 9am, you will unlock a new challenge and a correspondi
 video tutorial to help you learn. The tutorial is Java-based, but you can choose 
 other popular languages to submit your solution. Topics include if-else statements, recursion, data structures and more.
 
-## Day 0: Hello, World
+### Day 0: Hello, World
 
 Task:
 
 Save a line of input from stdin to a variable, print "Hello, World." on a single line. 
 Print the value of your variable on a second line. [Try it!](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-## Day 1: Data Types
+### Day 1: Data Types
 
 Task:
 
@@ -32,13 +32,13 @@ Task:
     * Concatenate  with the string you read as input and print the result on a 
     new line. [Try it!](https://www.hackerrank.com/challenges/30-data-types)
 
-## Day 2: Operators
+### Day 2: Operators
 
 Task:
 
 Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. [Try it!](https://www.hackerrank.com/challenges/30-operators)
 
-## Day 3: Intro to Conditional Statements
+### Day 3: Intro to Conditional Statements
 
 Task:
 
@@ -49,7 +49,7 @@ Given an integer, n, perform the following conditional actions:
 * If  is even and in the inclusive range of 6 to 20, print Weird.
 * If  is even and greater than 20, print Not Weird. [Try it!](https://www.hackerrank.com/challenges/30-conditional-statements)
 
-## Day 4: Class vs. Instance
+### Day 4: Class vs. Instance
 
 Task:
 
@@ -69,3 +69,11 @@ write the following instance methods:
     * If age >= 13 and age < 18, print You are a teenager.
 
     * Otherwise, print You are old. [Try it!](https://www.hackerrank.com/challenges/30-class-vs-instance)
+
+### Day 5: Loops
+
+Task:
+
+Given an integer, n, print its first 10 multiples. Each multiple n x i 
+(where 1 <= i <= 10) should be printed on a new line in the form: n x i = result.
+[Try it!](https://www.hackerrank.com/challenges/30-loops)
