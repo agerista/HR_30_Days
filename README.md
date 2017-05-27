@@ -77,3 +77,12 @@ Task:
 Given an integer, n, print its first 10 multiples. Each multiple n x i 
 (where 1 <= i <= 10) should be printed on a new line in the form: n x i = result.
 [Try it!](https://www.hackerrank.com/challenges/30-loops)
+
+### Day 6: Let's Review
+
+Task:
+
+Given a string, S, of length N that is indexed from 0 to N - 1, print its even-indexed 
+and odd-indexed characters as 2 space-separated strings on a single line. 0 is 
+considered to be an even index. [Try it!](https://www.hackerrank.com/challenges/30-review-loop)
+
