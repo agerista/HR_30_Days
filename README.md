@@ -86,3 +86,10 @@ Given a string, S, of length N that is indexed from 0 to N - 1, print its even-i
 and odd-indexed characters as 2 space-separated strings on a single line. 0 is 
 considered to be an even index. [Try it!](https://www.hackerrank.com/challenges/30-review-loop)
 
+Day 7: Arrays
+
+Task:
+
+Given an array, A, of N integers, print A's elements in reverse order as a single 
+line of space-separated numbers. [Try it!](https://www.hackerrank.com/challenges/30-arrays)
+
