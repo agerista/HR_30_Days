@@ -86,10 +86,19 @@ Given a string, S, of length N that is indexed from 0 to N - 1, print its even-i
 and odd-indexed characters as 2 space-separated strings on a single line. 0 is 
 considered to be an even index. [Try it!](https://www.hackerrank.com/challenges/30-review-loop)
 
-Day 7: Arrays
+### Day 7: Arrays
 
 Task:
 
 Given an array, A, of N integers, print A's elements in reverse order as a single 
 line of space-separated numbers. [Try it!](https://www.hackerrank.com/challenges/30-arrays)
 
+### Day 8: Phone a Friend
+
+Task:
+
+Given n names and phone numbers, assemble a phone book that maps friends’ names to 
+their respective phone numbers. You will then be given an unknown number of names 
+to query your phone book for. For each name queried, print the associated entry from 
+your phone book on a new line in the form name=phoneNumber; if an entry for name 
+is not found, print Not found instead. [Try it!](https://www.hackerrank.com/challenges/30-phone-a-friend)
