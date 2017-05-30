@@ -102,3 +102,11 @@ their respective phone numbers. You will then be given an unknown number of name
 to query your phone book for. For each name queried, print the associated entry from 
 your phone book on a new line in the form name=phoneNumber; if an entry for name 
 is not found, print Not found instead. [Try it!](https://www.hackerrank.com/challenges/30-phone-a-friend)
+
+### Day 9: Recursion
+
+Task:
+
+Write a factorial function that takes a positive integer, N as a parameter and 
+prints the result of N! (N factorial). [Try it!](https://www.hackerrank.com/challenges/30-recursion)
+
