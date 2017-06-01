@@ -112,6 +112,32 @@ prints the result of N! (N factorial). [Try it!](https://www.hackerrank.com/chal
 
 ### Day 10: Binary Numbers
 
+Task:
+
 Given a base-10 integer, n, convert it to binary (base-2). Then find and print 
 the base-10 integer denoting the maximum number of consecutive 1's in n's binary 
 representation. [Try it!](https://www.hackerrank.com/challenges/30-binary-numbers)
+
+### Day 10: 2D Arrays
+
+Task:
+
+Given a 6x6 2D Array, A:
+
+1 1 1 0 0 0
+0 1 0 0 0 0
+1 1 1 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+
+We define an hourglass in A to be a subset of values with indices falling in this 
+pattern in A's graphical representation:
+
+a b c
+  d
+e f g
+
+There are 16 hourglasses in A, and an hourglass sum is the sum of an hourglass' values.
+
+Calculate the hourglass sum for every hourglass in A, then print the maximum hourglass sum.
