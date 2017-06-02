@@ -141,3 +141,12 @@ e f g
 There are 16 hourglasses in A, and an hourglass sum is the sum of an hourglass' values.
 
 Calculate the hourglass sum for every hourglass in A, then print the maximum hourglass sum.
+
+### Day 12: Inheritance
+
+Task:
+
+You are given two classes, Person and Student, where Person is the base class and 
+Student is the derived class. Completed code for Person and a declaration for Student 
+are provided for you in the editor. Observe that Student inherits all the properties 
+of Person. Complete the Student class. [Try it!](https://www.hackerrank.com/challenges/30-inheritance)
