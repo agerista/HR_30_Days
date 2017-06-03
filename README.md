@@ -118,7 +118,7 @@ Given a base-10 integer, n, convert it to binary (base-2). Then find and print
 the base-10 integer denoting the maximum number of consecutive 1's in n's binary 
 representation. [Try it!](https://www.hackerrank.com/challenges/30-binary-numbers)
 
-### Day 10: 2D Arrays
+### Day 11: 2D Arrays
 
 Task:
 
@@ -150,3 +150,23 @@ You are given two classes, Person and Student, where Person is the base class an
 Student is the derived class. Completed code for Person and a declaration for Student 
 are provided for you in the editor. Observe that Student inherits all the properties 
 of Person. Complete the Student class. [Try it!](https://www.hackerrank.com/challenges/30-inheritance)
+
+### Day 13:
+
+Task:
+
+Given a Book class and a Solution class, write a MyBook class that does the following:
+
+* Inherits from Book
+
+* Has a parameterized constructor taking these  parameters:
+    
+    1. string title
+    2. string author
+    3. int price
+
+* Implements the Book class' abstract display() method so it prints these  lines:
+    1. Title:, a space, and then the current instance's title.
+    2. Author:, a space, and then the current instance's author.
+    3. Price:, a space, and then the current instance's price.
+
