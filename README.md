@@ -151,7 +151,7 @@ Student is the derived class. Completed code for Person and a declaration for St
 are provided for you in the editor. Observe that Student inherits all the properties 
 of Person. Complete the Student class. [Try it!](https://www.hackerrank.com/challenges/30-inheritance)
 
-### Day 13:
+### Day 13: Abstract Classes
 
 Task:
 
@@ -170,3 +170,14 @@ Given a Book class and a Solution class, write a MyBook class that does the foll
     2. Author:, a space, and then the current instance's author.
     3. Price:, a space, and then the current instance's price.
 
+### Day 14: Scope
+
+Task:
+
+Complete the Difference class by writing the following:
+
+* A class constructor that takes an array of integers as a parameter and saves it 
+to the elements instance variable.
+
+* A computeDifference method that finds the maximum absolute difference between 
+any 2 numbers in N and stores it in the maximumDifference instance variable.
