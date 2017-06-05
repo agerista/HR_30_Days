@@ -180,4 +180,14 @@ Complete the Difference class by writing the following:
 to the elements instance variable.
 
 * A computeDifference method that finds the maximum absolute difference between 
-any 2 numbers in N and stores it in the maximumDifference instance variable.
+any 2 numbers in N and stores it in the maximumDifference instance variable. 
+[Try it!](https://www.hackerrank.com/challenges/30-scope)
+
+### Day 15: Linked List
+
+Task:
+
+Complete the insert function in your editor so that it creates a new Node (pass 
+data as the Node constructor argument) and inserts it at the tail of the linked 
+list referenced by the head parameter. Once the new node is added, return the 
+reference to the head node. [Try it!](https://www.hackerrank.com/challenges/30-linked-list)
