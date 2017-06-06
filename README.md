@@ -124,19 +124,25 @@ Task:
 
 Given a 6x6 2D Array, A:
 
-1 1 1 0 0 0
-0 1 0 0 0 0
-1 1 1 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
+{% highlight python %}
+    1 1 1 0 0 0
+    0 1 0 0 0 0
+    1 1 1 0 0 0
+    0 0 0 0 0 0
+    0 0 0 0 0 0
+    0 0 0 0 0 0
+{% endhighlight %}
+
 
 We define an hourglass in A to be a subset of values with indices falling in this 
 pattern in A's graphical representation:
 
-a b c
-  d
-e f g
+{% highlight python %}
+    a b c
+      d
+    e f g
+{% endhighlight %}
+
 
 There are 16 hourglasses in A, and an hourglass sum is the sum of an hourglass' values.
 
@@ -191,3 +197,10 @@ Complete the insert function in your editor so that it creates a new Node (pass
 data as the Node constructor argument) and inserts it at the tail of the linked 
 list referenced by the head parameter. Once the new node is added, return the 
 reference to the head node. [Try it!](https://www.hackerrank.com/challenges/30-linked-list)
+
+### Day 16: Exceptions - String to Integer
+
+Task:
+
+Read a string, S, and print its integer value; if S cannot be converted to an 
+integer, print Bad String. [Try it!](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)
