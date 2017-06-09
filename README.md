@@ -124,24 +124,24 @@ Task:
 
 Given a 6x6 2D Array, A:
 
-{% highlight python %}
+```python
     1 1 1 0 0 0
     0 1 0 0 0 0
     1 1 1 0 0 0
     0 0 0 0 0 0
     0 0 0 0 0 0
     0 0 0 0 0 0
-{% endhighlight %}
+```
 
 
 We define an hourglass in A to be a subset of values with indices falling in this 
 pattern in A's graphical representation:
 
-{% highlight python %}
+```python
     a b c
       d
     e f g
-{% endhighlight %}
+```
 
 
 There are 16 hourglasses in A, and an hourglass sum is the sum of an hourglass' values.
@@ -238,5 +238,17 @@ Write the following declarations and implementations:
     top of the stack instance variable.
 
     5. A char dequeueCharacter() method that dequeues and returns the first character 
-    in the stack instance variable.
+    in the stack instance variable. [Try it!](https://www.hackerrank.com/challenges/30-queues-stacks)
+
+### Day 19: Interfaces
+
+Task:
+
+The AdvancedArithmetic interface and the method declaration for the abstract int 
+divisorSum(int n) method are provided for you in the editor below. Write the 
+Calculator class, which implements the AdvancedArithmetic interface. The 
+implementation for the divisorSum method must be public and take an integer 
+parameter, n, and return the sum of all its divisors. [Try it!](https://www.hackerrank.com/challenges/30-interfaces)
+
+
 
