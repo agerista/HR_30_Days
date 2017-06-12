@@ -272,3 +272,12 @@ Given an array, a, of size n distinct elements, sort the array in ascending orde
 Task:
 
 Write a single generic function named printArray; this function must take an array of generic elements as a parameter (the exception to this is C++, which takes a vector). The locked Solution class in your editor tests your function. [Try it!](https://www.hackerrank.com/challenges/30-generics)
+
+### Day 22: Binary Search Trees
+
+Task:
+
+The height of a binary search tree is the number of edges between the tree's root 
+and its furthest leaf. You are given a pointer, root, pointing to the root of a 
+binary search tree. Complete the getHeight function provided in your editor so 
+that it returns the height of the binary search tree. [Try it!](https://www.hackerrank.com/challenges/30-binary-search-trees)
