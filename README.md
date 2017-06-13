@@ -281,3 +281,13 @@ The height of a binary search tree is the number of edges between the tree's roo
 and its furthest leaf. You are given a pointer, root, pointing to the root of a 
 binary search tree. Complete the getHeight function provided in your editor so 
 that it returns the height of the binary search tree. [Try it!](https://www.hackerrank.com/challenges/30-binary-search-trees)
+
+### Day 23: BST Level-Order Traversal
+
+Task:
+
+A level-order traversal, also known as a breadth-first search, visits each level 
+of a tree's nodes from left to right, top to bottom. You are given a pointer, root, 
+pointing to the root of a binary search tree. Complete the levelOrder function 
+provided in your editor so that it prints the level-order traversal of the binary 
+search tree. [Try it!](https://www.hackerrank.com/challenges/30-binary-trees)
