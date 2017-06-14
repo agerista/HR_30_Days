@@ -291,3 +291,18 @@ of a tree's nodes from left to right, top to bottom. You are given a pointer, ro
 pointing to the root of a binary search tree. Complete the levelOrder function 
 provided in your editor so that it prints the level-order traversal of the binary 
 search tree. [Try it!](https://www.hackerrank.com/challenges/30-binary-trees)
+
+### Day 24: More Linked Lists
+
+Task:
+
+A Node class is provided for you in the editor. A Node object has an integer data 
+field, data, and a Node instance pointer, next, pointing to another node (i.e.: 
+the next node in a list).
+
+A removeDuplicates function is declared in your editor, which takes a pointer to 
+the head node of a linked list as a parameter. Complete removeDuplicates so that 
+it deletes any duplicate nodes from the list and returns the head of the updated 
+list. [Try it!](https://www.hackerrank.com/challenges/30-linked-list-deletion)
+
+
