@@ -305,4 +305,11 @@ the head node of a linked list as a parameter. Complete removeDuplicates so that
 it deletes any duplicate nodes from the list and returns the head of the updated 
 list. [Try it!](https://www.hackerrank.com/challenges/30-linked-list-deletion)
 
+### Day 25: Run Time and Complexity
+
+Task:
+
+A prime is a natural number greater than 1 that has no positive divisors other 
+than 1 and itself. Given a number, n, determine and print whether it's prime or 
+not prime. [Try it!](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
 
