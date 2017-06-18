@@ -349,3 +349,11 @@ Create and print a test case that meets the following criteria:
     * -10^3 <= a(i) <= 10^3, where iE[1,n]
     * The value of n must be distinct across all test cases
     * Array A must have at least 1 zero, 1 positive integer, and 1 negative integer
+
+### Day 28: RegEx, Patterns, and Intro to Databases
+
+Task:
+
+Consider a database table, Emails, which has the attributes First Name and Email 
+ID. Given N rows of data simulating the Emails table, print an alphabetically-ordered 
+list of people whose email address ends in gmail.com. [Try it!](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
