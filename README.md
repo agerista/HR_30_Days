@@ -336,3 +336,16 @@ is as follows:
     there is a fixed fine of 10000. 
 
 [Try it!](https://www.hackerrank.com/challenges/30-nested-logic/problem)
+
+### Day 27: Testing
+
+Task:
+
+Create and print a test case that meets the following criteria:
+
+    * t <= 5
+    * 3 <= n <= 200
+    * 1 <= k <= n
+    * -10^3 <= a(i) <= 10^3, where iE[1,n]
+    * The value of n must be distinct across all test cases
+    * Array A must have at least 1 zero, 1 positive integer, and 1 negative integer
