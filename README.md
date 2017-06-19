@@ -357,3 +357,11 @@ Task:
 Consider a database table, Emails, which has the attributes First Name and Email 
 ID. Given N rows of data simulating the Emails table, print an alphabetically-ordered 
 list of people whose email address ends in gmail.com. [Try it!](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
+
+### Day 29: Bitwise AND
+
+Task:
+
+Given set S = {1,2,3,..,N}. Find two integers, A and B (where A < B), from set S 
+such that the value of A & B is the maximum possible and also less than a given 
+integer, K. In this case, & represents the bitwise AND operator. [Try it!](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
